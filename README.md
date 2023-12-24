@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mursalinkhan552&label=Profile%20views&color=0e75b6&style=flat" alt="mursalinkhan552" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning NextJS, Redux**
+- 🌱**I’m currently learning NextJS, Redux**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/mursalinkhan552/sites](https://app.netlify.com/teams/mursalinkhan552/sites)
 
